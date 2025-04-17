@@ -21,3 +21,4 @@ This project showcases my skills, experience, and personality as a junior full-s
 
 ## 📁 Folder Structure
 
+src/ │ ├── components/ │ └── About.jsx # Main About section with interactivity │ └── Hologram.jsx # Reusable hologram animation component │ ├── App.jsx # Root component ├── App.css # Global styles └── index.js # Entry point
