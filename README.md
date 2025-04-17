@@ -1,7 +1,7 @@
 # 💻 Developer Portfolio
 
 Welcome to my personal developer portfolio!  
-This project showcases my skills, experience, and personality as a junior full-stack developer with a passion for building clean, responsive, and interactive web applications.
+This project showcases my skills, experience, and personality as a junior full-stack developer with a passion for building clean, responsive, and interactive web applications. The current state does not have back-end, however I do have plans to add that once the time is right. Enjoy!
 
 ## 🌟 Features
 
